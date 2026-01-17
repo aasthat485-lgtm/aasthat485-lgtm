@@ -1,3 +1,21 @@
+<h2>💫 About Me</h2>
+
+<p>
+Hi, I’m <strong>Aastha Tiwari</strong>, a Computer Science Engineering student at <strong>NMIMS, Mumbai</strong>, currently pursuing the <strong>MBA Tech</strong> program. I am deeply passionate about <strong>Artificial Intelligence, FinTech, Data Analytics, Software Development, and Cloud Computing</strong>, and I enjoy exploring how technology can be applied to solve real-world problems.
+</p>
+
+<p>
+My academic and project experience spans <strong>AI/ML applications, financial analytics, and sustainability-focused solutions</strong>, where I focus on transforming raw data into meaningful insights. I am skilled in <strong>Python, MySQL, C++, Java, Power BI, and AWS</strong>, and I enjoy designing efficient, scalable, and data-driven systems.
+</p>
+
+<p>
+I am particularly interested in building <strong>AI-powered applications</strong> and <strong>intelligent data systems</strong> that integrate technology, strategy, and social impact. I am always eager to learn, innovate, and collaborate on projects that push the boundaries of data and technology.
+</p>
+
+<p>
+🤝 I’m open to collaborating on <strong>AI/ML projects, backend development, and open-source contributions</strong>.<br>
+📫 You can reach me via <strong>LinkedIn</strong> or <strong>GitHub</strong>.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aastha Tiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aasthat485@gmail.com) 
