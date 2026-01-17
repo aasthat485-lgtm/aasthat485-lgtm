@@ -1,7 +1,7 @@
 <h2>About Me</h2>
 
 <p>
-I’m <strong>Aastha Tiwari</strong>, a Computer Science Engineering student at <strong>NMIMS, Mumbai</strong>, pursuing the <strong>MBA Tech</strong> program. I am passionate about <strong>Artificial Intelligence, FinTech, Data Analytics, and Cloud Computing</strong>, with a strong interest in building technology-driven solutions to real-world problems.
+I’m <strong>Aastha Tiwari</strong>, a Computer Science Engineering student. I am passionate about <strong>Artificial Intelligence, FinTech, Data Analytics, and Cloud Computing</strong>, with a strong interest in building technology-driven solutions to real-world problems.
 </p>
 
 <p>
