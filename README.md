@@ -5,7 +5,7 @@ I’m <strong>Aastha Tiwari</strong>, a Computer Science Engineering student. I 
 </p>
 
 <p>
-My work spans <strong>AI/ML systems, financial analytics, and sustainability-focused projects</strong>, where I specialize in converting complex data into actionable insights. I have hands-on experience with <strong>Python, MySQL, C++, Java, Power BI, and AWS</strong>, and I enjoy designing scalable, data-centric applications.
+My work spans <strong>AI/ML systems, financial analytics,web development and sustainability-focused projects</strong>, where I specialize in converting complex data into actionable insights. I have hands-on experience with <strong>Python, MySQL, C++, Java, Power BI, HTML and AWS</strong>, and I enjoy designing scalable, data-centric applications.
 </p>
 
 <p>
