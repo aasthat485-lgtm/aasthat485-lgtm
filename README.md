@@ -1,16 +1,17 @@
-<h2>About Me</h2>
+<h2>💫 About Me</h2>
 
 <p>
-I’m <strong>Aastha Tiwari</strong>, a Computer Science Engineering student. I am passionate about <strong>Artificial Intelligence, FinTech, Data Analytics, and Cloud Computing</strong>, with a strong interest in building technology-driven solutions to real-world problems.
+Hi, I’m <strong>Aastha Tiwari</strong>, an <strong>MBA Tech student</strong> and <strong>GenAI enthusiast</strong> interested in building practical, data-driven solutions.
 </p>
 
 <p>
-My work spans <strong>AI/ML systems, financial analytics,web development and sustainability-focused projects</strong>, where I specialize in converting complex data into actionable insights. I have hands-on experience with <strong>Python, MySQL, C++, Java, Power BI, HTML and AWS</strong>, and I enjoy designing scalable, data-centric applications.
+I’ve worked on <strong>AI healthcare analytics dashboards</strong> and <strong>mental health prediction applications</strong>, applying AI and analytics to real-world problems.
 </p>
 
 <p>
-I’m particularly interested in developing <strong>AI-powered applications</strong> and <strong>intelligent backend systems</strong> that combine data, technology, strategy, and social impact. I’m always eager to collaborate on <strong>AI/ML projects, backend development, and open-source initiatives</strong>.
+I work with <strong>Python, Java, MySQL, Power BI, and HTML</strong>, with exposure to <strong>web development and data analysis</strong>. I’m particularly interested in applying <strong>AI and analytics in the FinTech domain</strong>, and I enjoy learning through hands-on projects and collaboration.
 </p>
+
 
 
 ## 🌐 Socials:
