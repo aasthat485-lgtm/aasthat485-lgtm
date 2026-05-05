@@ -1,15 +1,12 @@
 <h2>💫 About Me</h2>
 
 <p>
-Hi, I’m <strong>Aastha Tiwari</strong>, an <strong>MBA Tech student</strong> and <strong>GenAI enthusiast</strong> interested in building practical, data-driven solutions.
-</p>
+Hi, I’m Aastha Tiwari, GenAI enthusiast with hands-on experience in building AI-driven solutions, full-stack applications, and data-driven analytics. I am passionate about leveraging GenAI, data visualization, and full-stack web technologies to build sustainable, scalable, and impactful solutions for real-world problems. 
+
+
 
 <p>
-I’ve worked on <strong>AI healthcare analytics dashboards</strong> and <strong>mental health prediction applications</strong>, applying AI and analytics to real-world problems.
-</p>
-
-<p>
-I work with <strong>Python, Java, MySQL, Power BI, and HTML</strong>, with exposure to <strong>web development and data analysis</strong>. I’m particularly interested in applying <strong>AI and analytics in the FinTech domain</strong>, and I enjoy learning through hands-on projects and collaboration.
+I work with Python,C++, Java, MySQL, Power BI, Node js, Angular js,Express, HTML ,CSS,AI API's with exposure to web development and data analysis.
 </p>
 
 
